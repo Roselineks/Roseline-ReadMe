@@ -50,7 +50,7 @@ Je suis prête à apporter mes compétences et ma motivation à une équipe dyna
   - [![API Platform](https://img.shields.io/badge/api_platform-black?style=for-the-badge&logo=api)](https://github.com/Sahlias)
 
 - **Outils de Collaboration:**
-  - [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Sahlias)
+
   - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Sahlias)
   - [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
   - [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
